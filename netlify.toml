@@ -2,4 +2,4 @@
 
 base = "."
 command = "npm run build"
-publish = "./buid/"
+publish = "./build/"
